@@ -1,0 +1,14 @@
+venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.git/
+*.db
+*.sqlite
+*.zip
+*.csv
+*.mp4
+*.mp3
+*.jpg
+*.png
